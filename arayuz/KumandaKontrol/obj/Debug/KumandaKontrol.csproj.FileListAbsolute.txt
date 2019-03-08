@@ -1,0 +1,12 @@
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\bin\Debug\KumandaKontrol.exe.config
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\bin\Debug\KumandaKontrol.exe
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\bin\Debug\KumandaKontrol.pdb
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\bin\Debug\M2Mqtt.Net.dll
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.Form1.resources
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.Properties.Resources.resources
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.csproj.GenerateResource.cache
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.csproj.CoreCompileInputs.cache
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.csproj.CopyComplete
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.exe
+c:\users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.pdb
+C:\Users\emre\source\repos\KumandaKontrol\KumandaKontrol\obj\Debug\KumandaKontrol.csprojAssemblyReference.cache

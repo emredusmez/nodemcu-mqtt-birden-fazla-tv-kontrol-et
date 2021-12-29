@@ -1,0 +1,1 @@
+Bu proje standart ir kumandalı televizyon ve diğer tüm cihazların wifi üzerinden bilgisayar arayüzü ile kumanda edilmesini sağlamaktadır. Sisteme birden fazla televizyon veya farklı cihazlar eklenebilir, bilgisayar arayüzü üzerinden aynı anda ve topluca kumanda edilebilir.
